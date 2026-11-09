@@ -1,0 +1,13 @@
+[general]
+name=Water Drop
+qgisMinimumVersion=3.22
+description=Trace a steepest-downhill path across a selected DEM using an eight-neighbour raster method.
+version=1.0.0
+author=Mayuresh Padalkar
+email=mayuresh.padalkar@gmail.com
+about=Creates a downhill water-drop path from a user-selected starting point on an active raster DEM. For better experience, convert the DEM to Fill Sinks (Wang and Liu).
+tags=hydrology, water-drop, flow-path, drainage, DEM, terrain-analysis, flow-direction, trace
+category=Raster
+icon=logos/icon.png
+tracker=https://github.com/MayureshPadalkar/water-drop/issues
+repository=https://github.com/MayureshPadalkar/water-drop
